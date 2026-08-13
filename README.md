@@ -1,4 +1,4 @@
-# Predicting Breast Cancer Malignancy Using PCA and Machine Learning Models
+# PREDICTING THE MALIGNANCY OF BREAST CANCER USING PCA AND MACHINE LEARNING MODELS
 
 ## Overview
 
